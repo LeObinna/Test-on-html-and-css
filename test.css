@@ -1,0 +1,54 @@
+.nav {
+    background-color: gold;
+    height: 100px;
+}
+.nav div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    position: absolute;
+    left: 0px;
+    padding: 10px;
+}
+.nav ul{
+    position: absolute;
+    right: 5px;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+.section h2{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    color: gold;
+    background-color: blue;
+    height: 90px;
+}
+.section p{ 
+    text-align:justify;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkblue;
+}
+.section article{
+    list-style: nonesss;
+    display: inline-table;
+    padding: 50px;
+}
+.section h3{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    background-color: gold;
+}
+.section{
+    background-color: gold;
+    top:0px ;
+}
+footer{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
